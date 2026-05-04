@@ -7,7 +7,6 @@ public class GameField
     public ChessFigure? GetFigure(int row, int col)
     {
         return board[row, col];
-        //hvhjgjg
     }
 }
 
